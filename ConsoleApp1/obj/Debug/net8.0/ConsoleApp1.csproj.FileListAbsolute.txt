@@ -1,0 +1,36 @@
+C:\Users\am345\Desktop\ConsoleApp1\ConsoleApp1\bin\Debug\net8.0\ConsoleApp1.exe
+C:\Users\am345\Desktop\ConsoleApp1\ConsoleApp1\bin\Debug\net8.0\ConsoleApp1.deps.json
+C:\Users\am345\Desktop\ConsoleApp1\ConsoleApp1\bin\Debug\net8.0\ConsoleApp1.runtimeconfig.json
+C:\Users\am345\Desktop\ConsoleApp1\ConsoleApp1\bin\Debug\net8.0\ConsoleApp1.dll
+C:\Users\am345\Desktop\ConsoleApp1\ConsoleApp1\bin\Debug\net8.0\ConsoleApp1.pdb
+C:\Users\am345\Desktop\ConsoleApp1\ConsoleApp1\bin\Debug\net8.0\AngleSharp.dll
+C:\Users\am345\Desktop\ConsoleApp1\ConsoleApp1\bin\Debug\net8.0\YoutubeExplode.dll
+C:\Users\am345\Desktop\ConsoleApp1\ConsoleApp1\obj\Debug\net8.0\ConsoleApp1.csproj.AssemblyReference.cache
+C:\Users\am345\Desktop\ConsoleApp1\ConsoleApp1\obj\Debug\net8.0\ConsoleApp1.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\am345\Desktop\ConsoleApp1\ConsoleApp1\obj\Debug\net8.0\ConsoleApp1.AssemblyInfoInputs.cache
+C:\Users\am345\Desktop\ConsoleApp1\ConsoleApp1\obj\Debug\net8.0\ConsoleApp1.AssemblyInfo.cs
+C:\Users\am345\Desktop\ConsoleApp1\ConsoleApp1\obj\Debug\net8.0\ConsoleApp1.csproj.CoreCompileInputs.cache
+C:\Users\am345\Desktop\ConsoleApp1\ConsoleApp1\obj\Debug\net8.0\ConsoleApp1.csproj.CopyComplete
+C:\Users\am345\Desktop\ConsoleApp1\ConsoleApp1\obj\Debug\net8.0\ConsoleApp1.dll
+C:\Users\am345\Desktop\ConsoleApp1\ConsoleApp1\obj\Debug\net8.0\refint\ConsoleApp1.dll
+C:\Users\am345\Desktop\ConsoleApp1\ConsoleApp1\obj\Debug\net8.0\ConsoleApp1.pdb
+C:\Users\am345\Desktop\ConsoleApp1\ConsoleApp1\obj\Debug\net8.0\ConsoleApp1.genruntimeconfig.cache
+C:\Users\am345\Desktop\ConsoleApp1\ConsoleApp1\obj\Debug\net8.0\ref\ConsoleApp1.dll
+D:\youtube downloader console app\ConsoleApp1\bin\Debug\net8.0\ConsoleApp1.exe
+D:\youtube downloader console app\ConsoleApp1\bin\Debug\net8.0\ConsoleApp1.deps.json
+D:\youtube downloader console app\ConsoleApp1\bin\Debug\net8.0\ConsoleApp1.runtimeconfig.json
+D:\youtube downloader console app\ConsoleApp1\bin\Debug\net8.0\ConsoleApp1.dll
+D:\youtube downloader console app\ConsoleApp1\bin\Debug\net8.0\ConsoleApp1.pdb
+D:\youtube downloader console app\ConsoleApp1\bin\Debug\net8.0\AngleSharp.dll
+D:\youtube downloader console app\ConsoleApp1\bin\Debug\net8.0\YoutubeExplode.dll
+D:\youtube downloader console app\ConsoleApp1\obj\Debug\net8.0\ConsoleApp1.csproj.AssemblyReference.cache
+D:\youtube downloader console app\ConsoleApp1\obj\Debug\net8.0\ConsoleApp1.GeneratedMSBuildEditorConfig.editorconfig
+D:\youtube downloader console app\ConsoleApp1\obj\Debug\net8.0\ConsoleApp1.AssemblyInfoInputs.cache
+D:\youtube downloader console app\ConsoleApp1\obj\Debug\net8.0\ConsoleApp1.AssemblyInfo.cs
+D:\youtube downloader console app\ConsoleApp1\obj\Debug\net8.0\ConsoleApp1.csproj.CoreCompileInputs.cache
+D:\youtube downloader console app\ConsoleApp1\obj\Debug\net8.0\ConsoleApp1.csproj.CopyComplete
+D:\youtube downloader console app\ConsoleApp1\obj\Debug\net8.0\ConsoleApp1.dll
+D:\youtube downloader console app\ConsoleApp1\obj\Debug\net8.0\refint\ConsoleApp1.dll
+D:\youtube downloader console app\ConsoleApp1\obj\Debug\net8.0\ConsoleApp1.pdb
+D:\youtube downloader console app\ConsoleApp1\obj\Debug\net8.0\ConsoleApp1.genruntimeconfig.cache
+D:\youtube downloader console app\ConsoleApp1\obj\Debug\net8.0\ref\ConsoleApp1.dll
